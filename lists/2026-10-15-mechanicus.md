@@ -17,10 +17,12 @@
 
 ### Cybernetica Datasmith (20 pts)
 
+- **Supports:** Kastelan Robots
 - Vingh's Wafers of Dynamism, Mechanicus pistol, Power fist
 
 ### Skitarii Marshal (35 pts)
 
+- **Supports:** Skitarii Vanguard
 - Control stave, Mechanicus pistol
 
 ### Sydonian Skatros (45 pts)
@@ -29,20 +31,24 @@
 
 ### Tech-Priest Dominus (60 pts)
 
+- **Leads:** Skitarii Rangers
 - TL-409, Omnissian axe, Macrostubber, Volkite blaster
 
 ### Tech-Priest Dominus (60 pts)
 
+- **Leads:** Skitarii Vanguard
 - Omnissian axe, Macrostubber, Volkite blaster
 
 ### Tech-Priest Manipulus (60 pts)
 
+- **Leads:** Kataphron Breachers
 - Omnissian staff, Magnarail lance
 
 ## Battleline
 
 ### 10x Skitarii Rangers (85 pts)
 
+- **Led by:** Tech-Priest Dominus
 - Skitarii Ranger Alpha: Close combat weapon, Galvanic rifle
 - 9x Skitarii Ranger w/ galvanic rifle: Close combat weapon, Galvanic rifle
 
@@ -53,11 +59,13 @@
 
 ### 10x Skitarii Vanguard (85 pts)
 
+- **Supported by:** Skitarii Marshal
 - Skitarii Vanguard Alpha: Close combat weapon, Radium carbine
 - 9x Skitarii Vanguard w/ radium carbine: Close combat weapon, Radium carbine
 
 ### 10x Skitarii Vanguard (85 pts)
 
+- **Led by:** Tech-Priest Dominus
 - Skitarii Vanguard Alpha: Close combat weapon, Radium carbine
 - 9x Skitarii Vanguard w/ radium carbine: Close combat weapon, Radium carbine
 
@@ -65,6 +73,7 @@
 
 ### 3x Kataphron Breachers (140 pts)
 
+- **Led by:** Tech-Priest Manipulus
 - 3x Kataphron Breacher (Heavy arc rifle & arc claw): Arc claw, Heavy arc rifle
 
 ### 5x Pteraxii Sterylizors (75 pts)
@@ -102,6 +111,7 @@
 
 ### 2x Kastelan Robots (150 pts)
 
+- **Supported by:** Cybernetica Datasmith
 - 2x Kastelan Robot: Twin Kastelan fist, Incendine combustor
 
 ### Onager Dunecrawler (150 pts)
