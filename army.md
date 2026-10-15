@@ -7,7 +7,7 @@ The source of truth for what I own, what I play and what I'm planning. Update it
 - **Size:** 1,980 / 2,000 pts, Strike Force, 11th edition.
 - **Warlord:** Belisarius Cawl.
 - **Detachment:** Lords of the Forge (2 DP since the September 2026 balance update).
-- **List:** [New Recruit](https://www.newrecruit.eu/app/Lists/6ac655411c05a91bd0553bde?view=main). Exports go in [`lists/`](lists/).
+- **List:** [New Recruit](https://www.newrecruit.eu/app/Lists/6ac655411c05a91bd0553bde?view=main). Exports go in [`lists/`](lists/); latest export: [2026-10-15](lists/2026-10-15-mechanicus.md).
 - **Play aids:** [cheat sheet](rules/cheat-sheet.md) and [rules quick reference](rules/quick-reference.md).
 
 ### Units
