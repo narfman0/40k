@@ -12,7 +12,7 @@ My Warhammer 40,000 hobby: an Adeptus Mechanicus army, lists, rules reference an
 
 ## Rules for content (this repo is public)
 
-- **Rules text is always our own summary.** Never paste Games Workshop's or Wahapedia's wording, and never commit official PDFs or lore. Stat lines, points and short own-words effect summaries are fine.
+- **Rules text can quote official wording directly** (datasheets, abilities, stratagems), or summarise it; whichever reads better for play. Don't commit official PDFs.
 - **No lore.**
 - **Get rules and points from current sources, not memory.** Use Wahapedia 11th-edition pages and the official Faction Pack / Munitorum Field Manual. Points change with every balance update, so stamp the date and source when you update numbers, and tell me to confirm them in New Recruit.
 - **Tie suggestions to what I own,** or to a concrete swap with the points it frees.
