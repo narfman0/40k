@@ -139,11 +139,11 @@ Statline format: **M / T / Sv / W / Ld / OC / invulnerable save**. Weapon format
 - **Stats:** 8" / 6 / 3+ / 4 / 7+ / 2 / –.
 - **Enmitic exterminator:** 36" · 6 · 3+ · 6 · -1 · 1 · Heavy, Rapid Fire 6, Sustained Hits 1. Re-roll wound rolls of 1 against anything that isn't a monster or vehicle. The gauss destructor option is the anti-tank gun instead.
 
-### Canoptek Wraiths (95 for 3; second unit shows 115)
+### Canoptek Wraiths (95 for 3, 220 for 6; 2nd+ unit 115 / 240)
 - **Stats:** 10" / 6 / 3+ / 4 / 8+ / 2 / 4+.
 - **Wraith Form:** after a normal move, pick an enemy unit they moved over and roll a D6 per Wraith; each 4+ is a mortal wound.
 - **Vicious claws:** 4 · 4+ · 6 · -1 · 2. With the Technomancer: 5+ Feel No Pain, heals, and +1 to hit.
-- The two units are identical in the export but priced differently; one value is stale. Confirm in New Recruit.
+- **Points escalate:** your first Wraith unit costs 95 for 3; every further unit costs 115 for 3 (Wahapedia, 2026-10-15). Both prices in the export are correct.
 
 ### Canoptek Doomstalker (130)
 - **Stats:** 8" / 8 / 3+ / 12 / 8+ / 4 / 4+. Deadly Demise D3. -1 to hit at 4 wounds or fewer.

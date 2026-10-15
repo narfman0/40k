@@ -44,7 +44,7 @@ The source of truth for what I own, what I play and what I'm planning. Update it
 Lists kept in New Recruit alongside the Mechanicus. Exports live in [`lists/`](lists/).
 
 - **Adeptus Custodes:** Shield Host, 1,830 / 2,000 pts. Trajann Valoris as Warlord. [Export (2026-10-15)](lists/2026-10-15-custodes.md), [rules](rules/custodes.md).
-- **Necrons:** Awakened Dynasty, 2,055 / 2,000 pts, so 55 pts over as exported. Illuminor Szeras as Warlord. Orikan supports the Warriors, the Technomancer supports a Wraith unit. [Export (2026-10-15)](lists/2026-10-15-necrons.md), [rules](rules/necrons.md). Two identical Canoptek Wraiths units are priced 95 and 115 pts; confirm in New Recruit.
+- **Necrons:** Awakened Dynasty, 2,055 / 2,000 pts, so 55 pts over as exported. Illuminor Szeras as Warlord. Orikan supports the Warriors, the Technomancer supports a Wraith unit. [Export (2026-10-15)](lists/2026-10-15-necrons.md), [rules](rules/necrons.md). The two Wraith units cost 95 and 115 because repeat units cost more; that's correct, not an export bug.
 - **Collection status:** unknown. Record here whether these are owned, planned or opponent lists.
 
 ## Plans and ideas
