@@ -132,4 +132,11 @@ Goal: every model in the list primed, with at least three colours and a finished
 - **Current batch (2026-10-15):** primed black, then Leadbelcher airbrushed all over. Next: block in the Mephiston Red, details, wash.
 - **Other units:** not recorded yet. List them here.
 
+**Reference look (Cawl):** matte, lighter and dusty red, not deep and saturated. To match it:
+- **Wash:** Strong Tone in the recesses only. Skip Red Tone on anything that should match Cawl, because it deepens the red further.
+- **Lighten:** mix Mephiston Red with a little Zandri Dust (about 3:1) and drybrush or sponge it over the raised areas of the panels. Evil Sunz Scarlet gives a brighter, less dusty lift.
+- **Dust:** lightly drybrush Zandri Dust on the legs and feet, fading out going up.
+- **Finish:** matte varnish to remove wash sheen.
+- **Test first:** try it on the back of one Kastelan and compare with Cawl before doing the rest.
+
 **Kastelan tips:** the faceplate is a glass visor, not metal. Paint it as glass over the existing black: Baharroth Blue in a curve along the lower half, a thinner, brighter band of Baharroth mixed with Corax White near the bottom edge, then a small Corax White glint in the top corner. Keep the wash off the visor. Paint the visor, metals and gold before washing. On the big flat panels, put the wash only into the recesses and panel lines; an all-over wash leaves tide marks.

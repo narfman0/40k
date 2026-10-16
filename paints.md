@@ -48,6 +48,8 @@ Move these into the Citadel list above once they arrive.
 
 Optional speed route for infantry: **Blood Angels Red** (contrast) over Wraithbone spray.
 
+- **Matte varnish** (e.g. Army Painter Anti-Shine spray or Vallejo Matt Varnish): needed to match Cawl's matte finish, unless one of the sets already has it.
+
 ## Gaps worth knowing
 
 Check the Army Painter sets for these before buying anything:
