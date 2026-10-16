@@ -89,4 +89,18 @@ None chosen yet. Medium is the best value.
 - **Done:** about half the army is painted well in red. Cawl and one Onager are the reference models to match.
 - **Orange models:** some are painted orange and need repainting red. Paint over them; don't strip.
 - **Unpainted:** everything else.
-- **Exact paints on the finished models:** unknown. Record them here once known.
+- **Paints owned:** see [Paints](../paints.md).
+
+### Working recipe
+
+This is a suggestion built from the paints I own. Compare it against Cawl before committing to it, and record any changes here.
+
+- **Primer:** black spray, or Wraithbone if it's the spray. Paint Mephiston Red straight over the old orange; the orange underneath only warms it.
+- **Robes and armour plates:** Mephiston Red, two thin coats. Shade the recesses only with Nuln Oil. Tidy up with Mephiston Red. Edge highlight with Mephiston Red mixed with a little Vallejo orange or yellow, until a brighter red is bought.
+- **Metal (bionics, guns, hulls):** Leadbelcher, then a Nuln Oil wash.
+- **Trim and cogs:** Retributor Armour, Nuln Oil in the recesses, then a Liberator Gold edge highlight.
+- **Cabling, leather, wood:** Rhinox Hide, then Nuln Oil.
+- **Bone, parchment, purity seals:** Zandri Dust, highlighted with Wraithbone or Corax White.
+- **Lenses and power glow:** Baharroth Blue, with a Corax White dot.
+- **Black parts:** Corvus Black, with a grey edge made by mixing in some Corax White.
+- **Bases:** match whatever is on Cawl and the Onager. If starting fresh, Zandri Dust drybrushed with Wraithbone.

@@ -12,6 +12,7 @@ My Warhammer 40,000 armies, lists and play aids (11th edition).
 
 - [Core rules](rules/core.md): turn structure, cover, hidden, keywords, core stratagems.
 - [All lists and exports](lists/)
+- [Paints](paints.md): what I own, shared by every army.
 - [Notes](notes/)
 
 Rules content here is a play reference, part quoted and part summarised. It doesn't replace the official rules, so check the Warhammer 40,000 app or the free Faction Pack PDFs when it matters, and points in New Recruit.

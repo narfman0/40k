@@ -13,6 +13,7 @@ All armies are equal; none is the default. Each army `<army>` (e.g. `mechanicus`
 Shared:
 
 - `rules/core.md`: core rules, keywords and core stratagems for every army. Don't duplicate these in army pages; link to them.
+- `paints.md`: every paint I own, shared by all armies. Recipes on army pages should use only these, or say what to buy. Update it when I mention new paints.
 - `lists/README.md`: index of armies and exports. `README.md`: site home.
 - `notes/`: free-form ideas, matchup notes, battle reports. Link the relevant army pages.
 

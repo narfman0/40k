@@ -24,4 +24,4 @@ None recorded yet.
 
 ## Paint
 
-Not recorded yet.
+Not recorded yet. Paints owned: see [Paints](../paints.md).
