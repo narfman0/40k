@@ -104,3 +104,27 @@ This is a suggestion built from the paints I own. Compare it against Cawl before
 - **Lenses and power glow:** Baharroth Blue, with a Corax White dot.
 - **Black parts:** Corvus Black, with a grey edge made by mixing in some Corax White.
 - **Bases:** match Cawl and the Onager if they already have a base style. Otherwise, apply Martian Ironearth thickly and let it dry fully (it cracks as it dries). Wash with Agrax Earthshade, drybrush Zandri Dust, and paint the rim Rhinox Hide or Corvus Black.
+
+### Battle-ready plan
+
+Goal: every model in the list primed, with at least three colours and a finished base. That's Games Workshop's "battle ready" standard and what most tournaments ask for. Highlights and gold trim can come later.
+
+**Fast recipe** (batches of 5–10 models):
+1. Prime black, or Wraithbone if it's the spray.
+2. Mephiston Red on robes and armour plates. Old orange models need two coats.
+3. Leadbelcher on metal.
+4. One detail colour: Rhinox Hide on cabling, or Zandri Dust on bone.
+5. Agrax Earthshade over the whole model.
+6. Mephiston Red again on the raised areas of the red. Keep this step, so the batch doesn't look darker than the models that are already done.
+7. A Baharroth Blue dot on lenses.
+8. Base: Martian Ironearth, Agrax Earthshade, a Zandri Dust drybrush, and a black or brown rim.
+
+**Upgrade to match the finished models later:** Evil Sunz Scarlet edge highlight, Retributor Armour trim, Nuln Oil in the metal recesses.
+
+**Order:**
+1. Bases on every model, including the finished ones, so the army matches.
+2. Infantry blocks: Rangers and Vanguard, ten at a time.
+3. The new Combat Patrol models, as they're built.
+4. Characters and vehicles.
+
+**Unpainted units:** not recorded yet. List them here.
