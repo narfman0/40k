@@ -28,16 +28,21 @@ A large number of Army Painter sets. **Which sets is unknown**, so record the se
 
 A small pack of basic colours. Mainly useful for mixing and for colours the Citadel pots don't cover.
 
-## Shopping list (suggested 2026-10-15)
+## On order (2026-10-15)
 
-Before buying, check the Army Painter sets for equivalents: Strong Tone (≈ Agrax), Red Tone (≈ Carroburg), Pure Red / Lava Orange (highlights).
+- **Martian Ironearth** (technical): cracked Mars-earth basing texture.
+- **Agrax Earthshade** (shade): warm brown wash.
+- **Evil Sunz Scarlet** (layer): bright red highlight.
 
-1. **Evil Sunz Scarlet** (layer): first red highlight over Mephiston.
+Move these into the Citadel list above once they arrive.
+
+## Still worth getting (suggested 2026-10-15)
+
+Before buying, check the Army Painter sets for equivalents: Red Tone (≈ Carroburg Crimson).
+
 2. **Carroburg Crimson** (shade): red-friendly recess wash.
-3. **Agrax Earthshade** (shade): general warm wash for metal, cabling, bone.
 4. **Wild Rider Red** (layer): fine edge highlight on robes and plates.
 5. **Typhus Corrosion** + **Ryza Rust** (technical / dry): grime and rust on metal and vehicles.
-6. **Mars basing:** Martian Ironearth (cracked texture), drybrushed Ryza Rust, or the user's existing base recipe if Cawl's differs.
 
 Optional speed route for infantry: **Blood Angels Red** (contrast) over Wraithbone spray.
 

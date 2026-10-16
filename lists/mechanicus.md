@@ -96,11 +96,11 @@ None chosen yet. Medium is the best value.
 This is a suggestion built from the paints I own. Compare it against Cawl before committing to it, and record any changes here.
 
 - **Primer:** black spray, or Wraithbone if it's the spray. Paint Mephiston Red straight over the old orange; the orange underneath only warms it.
-- **Robes and armour plates:** Mephiston Red, two thin coats. Shade the recesses only with Nuln Oil. Tidy up with Mephiston Red. Edge highlight with Mephiston Red mixed with a little Vallejo orange or yellow, until a brighter red is bought.
-- **Metal (bionics, guns, hulls):** Leadbelcher, then a Nuln Oil wash.
+- **Robes and armour plates:** Mephiston Red, two thin coats. Shade the recesses only with Agrax Earthshade (Nuln Oil until it arrives). Tidy up with Mephiston Red. Edge highlight with Evil Sunz Scarlet; add Wild Rider Red later for a finer top edge.
+- **Metal (bionics, guns, hulls):** Leadbelcher, then Agrax Earthshade for a warm, grimy steel, or Nuln Oil for a cleaner, cooler steel.
 - **Trim and cogs:** Retributor Armour, Nuln Oil in the recesses, then a Liberator Gold edge highlight.
-- **Cabling, leather, wood:** Rhinox Hide, then Nuln Oil.
-- **Bone, parchment, purity seals:** Zandri Dust, highlighted with Wraithbone or Corax White.
+- **Cabling, leather, wood:** Rhinox Hide, then Agrax Earthshade.
+- **Bone, parchment, purity seals:** Zandri Dust, washed with Agrax Earthshade, then highlighted with Wraithbone or Corax White.
 - **Lenses and power glow:** Baharroth Blue, with a Corax White dot.
 - **Black parts:** Corvus Black, with a grey edge made by mixing in some Corax White.
-- **Bases:** match whatever is on Cawl and the Onager. If starting fresh, Zandri Dust drybrushed with Wraithbone.
+- **Bases:** match Cawl and the Onager if they already have a base style. Otherwise, apply Martian Ironearth thickly and let it dry fully (it cracks as it dries). Wash with Agrax Earthshade, drybrush Zandri Dust, and paint the rim Rhinox Hide or Corvus Black.
