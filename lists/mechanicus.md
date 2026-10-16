@@ -129,6 +129,7 @@ Goal: every model in the list primed, with at least three colours and a finished
 
 **Progress:**
 - **Kastelan Robots:** red basecoat done. Still to do: faceplate and details, then a recess wash, then tidy and highlight.
+- **Current batch (2026-10-15):** primed black, then Leadbelcher airbrushed all over. Next: block in the Mephiston Red, details, wash.
 - **Other units:** not recorded yet. List them here.
 
 **Kastelan tips:** the faceplate is a glass visor, not metal. Paint it as glass over the existing black: Baharroth Blue in a curve along the lower half, a thinner, brighter band of Baharroth mixed with Corax White near the bottom edge, then a small Corax White glint in the top corner. Keep the wash off the visor. Paint the visor, metals and gold before washing. On the big flat panels, put the wash only into the recesses and panel lines; an all-over wash leaves tide marks.
