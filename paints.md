@@ -22,7 +22,12 @@ Names were cleaned up from a voice message. The ones marked (?) are my best gues
 
 ## Army Painter
 
-A large number of Army Painter sets. **Which sets is unknown**, so record the set names or the colours you reach for most.
+A large number of Army Painter sets, including Quickshade washes:
+
+- **Strong Tone:** warm brown wash. The army's main wash, used instead of Agrax Earthshade.
+- **Other tones:** several more. Record which ones, for example Dark Tone, Red Tone or Soft Tone.
+
+The rest of the sets aren't recorded yet. Note the set names or the colours you reach for most.
 
 ## Vallejo
 
@@ -31,7 +36,6 @@ A small pack of basic colours. Mainly useful for mixing and for colours the Cita
 ## On order (2026-10-15)
 
 - **Martian Ironearth** (technical): cracked Mars-earth basing texture.
-- **Agrax Earthshade** (shade): warm brown wash.
 - **Evil Sunz Scarlet** (layer): bright red highlight.
 
 Move these into the Citadel list above once they arrive.
@@ -51,5 +55,5 @@ Optional speed route for infantry: **Blood Angels Red** (contrast) over Wraithbo
 Check the Army Painter sets for these before buying anything:
 
 - **A brighter red** for edge highlights over Mephiston Red: something like Evil Sunz Scarlet or Wild Rider Red.
-- **A red or brown shade:** something like Carroburg Crimson or Agrax Earthshade. Nuln Oil works on red but darkens it.
+- **A red shade:** check for Army Painter Red Tone before buying Carroburg Crimson. Strong Tone covers the brown wash.
 - **A rust or orange** for Mars-style bases and weathering.
