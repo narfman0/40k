@@ -1,14 +1,22 @@
 # 40k workspace
 
-My Warhammer 40,000 hobby: an Adeptus Mechanicus army, lists, rules reference and plans. Hermes (via Matrix) and Claude both work here.
+My Warhammer 40,000 hobby: my armies, their lists, rules references and plans. Hermes (via Matrix) and Claude both work here.
 
 ## Layout
 
-- `army.md`: **the source of truth.** Current list, collection, plans, paint state. Read it first, and update it whenever the list, collection or plans change.
-- `rules/quick-reference.md`: core rules, army rules, detachments and every owned or candidate unit, as summaries with stats and points.
-- `rules/cheat-sheet.md`: the game plan and turn-by-turn play aid for the current list.
-- `lists/`: list exports from New Recruit or BattleScribe (`.ros`, `.rosz`, `.json`, `.txt`), each with a readable `.md` next to it. Name files `YYYY-MM-DD-<name>.<ext>`.
-- `notes/`: free-form ideas, painting plans, matchup notes, battle reports.
+All armies are equal; none is the default. Each army `<army>` (e.g. `mechanicus`, `necrons`, `custodes`) has:
+
+- `lists/<army>.md`: **the army page, its source of truth.** Current list summary, collection status, plans, paint. It links to its rules page and its latest export, and back to the other armies. Update it whenever that army's list, collection or plans change.
+- `lists/YYYY-MM-DD-<army>.<ext>` + `.md`: dated New Recruit/BattleScribe exports with a readable version. The `.md` links back to the army page.
+- `rules/<army>.md`: the army's rules reference: army rule, detachment(s), units in the list, candidates. Optional extra play aids are `rules/<army>-<aid>.md` (e.g. `mechanicus-cheat-sheet.md`).
+
+Shared:
+
+- `rules/core.md`: core rules, keywords and core stratagems for every army. Don't duplicate these in army pages; link to them.
+- `lists/README.md`: index of armies and exports. `README.md`: site home.
+- `notes/`: free-form ideas, matchup notes, battle reports. Link the relevant army pages.
+
+**Adding an army:** add its export, army page and rules page, then add it to the nav line at the top of every army page, `lists/README.md` and `README.md`.
 
 ## Rules for content (this repo is public)
 

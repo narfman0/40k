@@ -2,7 +2,7 @@
 
 My own summaries for the [Necrons list](../lists/2026-10-15-necrons.md). Datasheet numbers come from the New Recruit export of 2026-10-15 (catalogue revision 27); detachment enhancements and stratagems from Wahapedia's 11th-edition pages, read 2026-10-15 after the October 2026 balance update. Check exact wording in the app or Faction Pack, and points in New Recruit.
 
-Core rules, weapon keywords and core stratagems are in the [Mechanicus quick reference](quick-reference.md#core-rules); they're the same for every army.
+Army page: [Necrons](../lists/necrons.md) · Core rules, keywords and core stratagems: [Core rules](core.md)
 
 **Contents:** [Army rule](#army-rule) · [Detachment](#detachment-awakened-dynasty-3-dp) · [Attachments](#attachments) · [Units](#units)
 

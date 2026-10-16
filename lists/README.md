@@ -1,13 +1,18 @@
-# Lists
+# Armies
 
-List exports from New Recruit or BattleScribe (`.ros`, `.rosz`, `.json`, `.txt`), named `YYYY-MM-DD-<name>.<ext>`. Each has a readable `.md` next to it.
+Every army gets the same treatment: an army page, dated list exports and a rules reference. Shared rules are in [Core rules](../rules/core.md).
 
-Current list: [New Recruit](https://www.newrecruit.eu/app/Lists/6ac655411c05a91bd0553bde?view=main). The full breakdown is in the [cheat sheet](../rules/cheat-sheet.md) appendix.
+## Armies
+
+- **[Adeptus Mechanicus](mechanicus.md):** Lords of the Forge, 1,980 / 2,000. Owned. [Rules](../rules/mechanicus.md), [cheat sheet](../rules/mechanicus-cheat-sheet.md).
+- **[Necrons](necrons.md):** Awakened Dynasty, 2,055 / 2,000 (over). [Rules](../rules/necrons.md).
+- **[Adeptus Custodes](custodes.md):** Shield Host, 1,830 / 2,000. [Rules](../rules/custodes.md).
 
 ## Exports
 
-| Date | List | Faction | Detachment | Points | Files |
-| --- | --- | --- | --- | --- | --- |
-| 2026-10-15 | Mechanicus (current list) | Adeptus Mechanicus | Lords of the Forge | 1,980 / 2,000 | [md](2026-10-15-mechanicus.md), [ros](2026-10-15-mechanicus.ros) |
-| 2026-10-15 | Custodes | Adeptus Custodes | Shield Host | 1,830 / 2,000 | [md](2026-10-15-custodes.md), [ros](2026-10-15-custodes.ros) |
-| 2026-10-15 | Necrons | Necrons | Awakened Dynasty | 2,055 / 2,000 (over) | [md](2026-10-15-necrons.md), [ros](2026-10-15-necrons.ros) |
+Each New Recruit or BattleScribe export (`.ros`, `.rosz`, `.json`, `.txt`) is named `YYYY-MM-DD-<army>.<ext>`, with a readable `.md` beside it. The army page links to the latest one.
+
+- **2026-10-15:**
+  - Mechanicus: [md](2026-10-15-mechanicus.md), [ros](2026-10-15-mechanicus.ros)
+  - Necrons: [md](2026-10-15-necrons.md), [ros](2026-10-15-necrons.ros)
+  - Custodes: [md](2026-10-15-custodes.md), [ros](2026-10-15-custodes.ros)

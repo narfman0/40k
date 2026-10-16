@@ -1,5 +1,7 @@
 # Mechanicus Cheat Sheet
 
+Army page: [Adeptus Mechanicus](../lists/mechanicus.md) · Rules: [Mechanicus reference](mechanicus.md) · [Core rules](core.md)
+
 **Adeptus Mechanicus — Lords of the Forge** · Strike Force · 1,980 pts · Warlord: Belisarius Cawl · 11th ed · [New Recruit list](https://www.newrecruit.eu/app/Lists/6ac655411c05a91bd0553bde?view=main)
 
 > **Game plan:** Hold the middle with a tough group of units around Cawl. A shooting line covers them from behind, and cheap fast units score and screen. Take objectives, let the enemy come to you, and hit back with the Kastelans and Breachers.

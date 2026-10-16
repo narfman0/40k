@@ -1,5 +1,7 @@
 # Mechanicus
 
+Army page: [Adeptus Mechanicus](mechanicus.md) · Rules: [Adeptus Mechanicus reference](../rules/mechanicus.md)
+
 - **Faction:** Adeptus Mechanicus
 - **Detachment:** Lords of the Forge
 - **Size:** Strike Force (2000 Point limit)
