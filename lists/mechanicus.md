@@ -127,4 +127,8 @@ Goal: every model in the list primed, with at least three colours and a finished
 3. The new Combat Patrol models, as they're built.
 4. Characters and vehicles.
 
-**Unpainted units:** not recorded yet. List them here.
+**Progress:**
+- **Kastelan Robots:** red basecoat done. Still to do: faceplate and details, then a recess wash, then tidy and highlight.
+- **Other units:** not recorded yet. List them here.
+
+**Kastelan tips:** paint the faceplate, metals and gold before washing. On the big flat panels, put the wash only into the recesses and panel lines; an all-over wash leaves tide marks.
