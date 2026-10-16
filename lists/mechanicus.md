@@ -96,7 +96,7 @@ None chosen yet. Medium is the best value.
 This is a suggestion built from the paints I own. Compare it against Cawl before committing to it, and record any changes here.
 
 - **Primer:** black spray, or Wraithbone if it's the spray. Paint Mephiston Red straight over the old orange; the orange underneath only warms it.
-- **Robes and armour plates:** Mephiston Red, two thin coats. Shade the recesses only with Army Painter Strong Tone. Tidy up with Mephiston Red. Edge highlight with Evil Sunz Scarlet; add Wild Rider Red later for a finer top edge.
+- **Robes and armour plates:** Mephiston Red, two thin coats. Shade the recesses only with Army Painter Red Tone. It deepens the red without browning it. Strong Tone also works for a dirtier look. Tidy up with Mephiston Red. Edge highlight with Evil Sunz Scarlet; add Wild Rider Red later for a finer top edge.
 - **Metal (bionics, guns, hulls):** Leadbelcher, then Strong Tone for a warm, grimy steel, or Nuln Oil for a cleaner, cooler steel.
 - **Trim and cogs:** Retributor Armour, Nuln Oil in the recesses, then a Liberator Gold edge highlight.
 - **Cabling, leather, wood:** Rhinox Hide, then Strong Tone.
@@ -114,7 +114,7 @@ Goal: every model in the list primed, with at least three colours and a finished
 2. Mephiston Red on robes and armour plates. Old orange models need two coats.
 3. Leadbelcher on metal.
 4. One detail colour: Rhinox Hide on cabling, or Zandri Dust on bone.
-5. Strong Tone over the whole model.
+5. Wash: Red Tone on the red, Strong Tone on everything else (metal, cabling, bone). If you're short on time, Strong Tone over the whole model is fine.
 6. Mephiston Red again on the raised areas of the red. Keep this step, so the batch doesn't look darker than the models that are already done.
 7. A Baharroth Blue dot on lenses.
 8. Base: Martian Ironearth, Strong Tone, a Zandri Dust drybrush, and a black or brown rim.

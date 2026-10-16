@@ -25,7 +25,8 @@ Names were cleaned up from a voice message. The ones marked (?) are my best gues
 A large number of Army Painter sets, including Quickshade washes:
 
 - **Strong Tone:** warm brown wash. The army's main wash, used instead of Agrax Earthshade.
-- **Other tones:** several more. Record which ones, for example Dark Tone, Red Tone or Soft Tone.
+- **Red Tone:** red wash for shading the red armour. Used instead of Carroburg Crimson.
+- **Other tones:** several more. Record which ones, for example Dark Tone or Soft Tone.
 
 The rest of the sets aren't recorded yet. Note the set names or the colours you reach for most.
 
@@ -42,9 +43,6 @@ Move these into the Citadel list above once they arrive.
 
 ## Still worth getting (suggested 2026-10-15)
 
-Before buying, check the Army Painter sets for equivalents: Red Tone (≈ Carroburg Crimson).
-
-2. **Carroburg Crimson** (shade): red-friendly recess wash.
 4. **Wild Rider Red** (layer): fine edge highlight on robes and plates.
 5. **Typhus Corrosion** + **Ryza Rust** (technical / dry): grime and rust on metal and vehicles.
 
@@ -55,5 +53,4 @@ Optional speed route for infantry: **Blood Angels Red** (contrast) over Wraithbo
 Check the Army Painter sets for these before buying anything:
 
 - **A brighter red** for edge highlights over Mephiston Red: something like Evil Sunz Scarlet or Wild Rider Red.
-- **A red shade:** check for Army Painter Red Tone before buying Carroburg Crimson. Strong Tone covers the brown wash.
 - **A rust or orange** for Mars-style bases and weathering.
