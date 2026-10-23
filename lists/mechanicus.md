@@ -129,7 +129,10 @@ Goal: every model in the list primed, with at least three colours and a finished
 
 **Progress:**
 - **Kastelan Robots:** red basecoat done. Still to do: faceplate and details, then a recess wash, then tidy and highlight.
-- **Current batch (2026-10-15):** primed black, then Leadbelcher airbrushed all over. Next: block in the Mephiston Red, details, wash.
+- **Current batch (Combat Patrol models):** primed black, Leadbelcher airbrushed, then Mephiston Red, Rhinox Hide, Retributor Armour (bronze) and Baharroth Blue on eyes and weapons.
+  - **Done:** Vanguard, Manipulus, Dominus.
+  - **Still to do:** Pteraxii and Serberys.
+  - **Decision:** Mephiston Red looks good unwashed, so skip the wash on red for this batch. Wash only the metal, gold and bone if needed.
 - **Other units:** not recorded yet. List them here.
 
 **Reference look (Cawl):** matte, lighter and dusty red, not deep and saturated. To match it:
