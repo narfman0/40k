@@ -133,6 +133,7 @@ Goal: every model in the list primed, with at least three colours and a finished
   - **Done:** Vanguard, Manipulus, Dominus.
   - **Still to do:** Pteraxii and Serberys.
   - **Decision:** Mephiston Red looks good unwashed, so skip the wash on red for this batch. Wash only the metal, gold and bone if needed.
+- **Hastarii:** ordered 2026-10-15, bought preassembled and already painted. Check the build (Fusiliers or Exterminators) and that the paint scheme matches the army.
 - **Other units:** not recorded yet. List them here.
 
 **Reference look (Cawl):** matte, lighter and dusty red, not deep and saturated. To match it:
