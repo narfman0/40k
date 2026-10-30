@@ -65,8 +65,9 @@ These were proposed in October 2026. All of them add Cohort Cybernetica. Prices 
 - **High (~$270):**
   - Everything in Medium.
   - Add Thulia Ghuld (she becomes Warlord) and a Servitor Battleclade (from the Kill Team: Battleclade box).
-  - Cut the Kastelans with their Datasmith, and the Raiders.
-  - Total: 2,000 pts.
+  - Cut the Kastelans with their Datasmith (170), and the Raiders (60).
+  - Also cut the Infiltrators (75), then take Necromechanic (20) again.
+  - Total: 1,970 pts. (Corrected 2026-10-15: without the Infiltrators cut, this tier came to 2,025, over the limit. An earlier note counted the Kastelans and Datasmith as 195 instead of 170.)
 
 None chosen yet. Medium is the best value.
 
