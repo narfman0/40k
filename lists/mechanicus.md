@@ -65,9 +65,10 @@ These were proposed in October 2026. All of them add Cohort Cybernetica. Prices 
 - **High (~$270):**
   - Everything in Medium.
   - Add Thulia Ghuld (she becomes Warlord) and a Servitor Battleclade (from the Kill Team: Battleclade box).
-  - Cut the Kastelans with their Datasmith (170), and the Raiders (60).
-  - Also cut the Infiltrators (75), then take Necromechanic (20) again.
-  - Total: 1,970 pts. (Corrected 2026-10-15: without the Infiltrators cut, this tier came to 2,025, over the limit. An earlier note counted the Kastelans and Datasmith as 195 instead of 170.)
+  - Cut the Kastelans with their Datasmith and Vingh's Wafers (195: 150 + 20 + 25 for the enhancement), the Sulphurhounds (55) and, as in Medium, the Raiders (60).
+  - Total: 2,000 pts.
+  - **Keep the painted Sulphurhounds instead:** cut the Infiltrators (75) in their place, then take Necromechanic (+20). Also 2,000 pts.
+  - Note (2026-10-15): the points in the export's unit headings leave out enhancements. They add up to 1,925, and TL-4Ø9 (30) plus Vingh's Wafers (25) make the listed 1,980. An earlier edit that changed this tier to 1,970 was a mistake. It counted the Kastelans and Datasmith as 170 and ignored Vingh's Wafers.
 
 None chosen yet. Medium is the best value.
 
