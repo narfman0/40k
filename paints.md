@@ -25,6 +25,7 @@ Names were cleaned up from a voice message. The ones marked (?) are my best gues
 A large number of Army Painter sets, including Quickshade washes:
 
 - **Strong Tone:** warm brown wash. The army's main wash, used instead of Agrax Earthshade.
+- **Matt Black:** plain matt black (paint or spray, unconfirmed which). Fine for cloth and flat black areas.
 - **Red Tone:** red wash for shading the red armour. Used instead of Carroburg Crimson.
 - **Other tones:** several more. Record which ones, for example Dark Tone or Soft Tone.
 

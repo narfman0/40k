@@ -103,7 +103,7 @@ This is a suggestion built from the paints I own. Compare it against Cawl before
 - **Cabling, leather, wood:** Rhinox Hide, then Strong Tone.
 - **Bone, parchment, purity seals:** Zandri Dust, washed with Strong Tone, then highlighted with Wraithbone or Corax White.
 - **Lenses and power glow:** Baharroth Blue, with a Corax White dot.
-- **Black parts (cloth, suits, off items):** Corvus Black, or Vallejo Black for big flat areas. Edge the folds with Corvus Black mixed with a little Corax White.
+- **Black parts (cloth, suits, off items):** Corvus Black for small detail, or Vallejo Black or Army Painter Matt Black for big flat areas. Edge the folds with Corvus Black mixed with a little Corax White.
 - **Bases:** match Cawl and the Onager if they already have a base style. Otherwise, apply Martian Ironearth thickly and let it dry fully (it cracks as it dries). Wash with Strong Tone, drybrush Zandri Dust, and paint the rim Rhinox Hide or Corvus Black.
 
 ### Battle-ready plan
