@@ -23,7 +23,7 @@
 - Belisarius Cawl
 - Sydonian Skatros (**discarded**: it was a proxy and is no longer owned)
 - 10 Skitarii Rangers
-- Ironstrider Ballistarii (autocannon)
+- Ironstrider Ballistarii (autocannon; **orange resin proxy, being discarded**)
 - Onager Dunecrawler (neutron laser)
 - Onager Dunecrawler (eradication beamer)
 - 5 Pteraxii Sterylizors
@@ -86,10 +86,10 @@ None chosen yet. Medium is the best value.
 With the orders above, Medium is effectively the plan:
 
 - **Start:** 1,935 (the Skatros is gone).
-- **Add:** Hastarii Fusiliers (+105) and the new Ironstrider with lascannons (+90).
+- **Add:** Hastarii Fusiliers (+105) and two new Ironstriders (+170 to +180 combined, replacing the proxy at 80).
 - **Swap:** the new Infiltrators replace the proxy Infiltrators at the same cost, so no change.
 - **Cut:** Ruststalkers (-75) and Raiders (-60), both unpainted or orange proxies.
-- **Total:** 1,995 pts, 5 spare. Add Cohort Cybernetica as the third detachment for Transcendent Cogitation on the Ironstriders.
+- **Total:** 2,005 with two lascannon Ironstriders (5 over), 1,995 with one lascannon and one autocannon. If over, drop Vingh's Wafers (-25) to reach 1,980. Add Cohort Cybernetica as the third detachment for Transcendent Cogitation on the Ironstriders.
 - **Not yet decided:** whether to cut Ruststalkers and Raiders for sure; I haven't changed the exported list.
 
 #### Option: Thulia first (discussed 2026-10-15, not chosen)
@@ -168,7 +168,7 @@ Goal: every model in the list primed, with at least three colours and a finished
 - **Serberys:** the Sulphurhounds are built and painted (from the Combat Patrol). The Raiders are proxies and less painted.
 - **Hastarii:** shipped, due to arrive 2026-10-15. Bought preassembled and prepainted. Check the build (Fusiliers or Exterminators) and that the paint scheme matches the army.
 - **Sicarian Infiltrators:** new set ordered 2026-10-15, prepainted. Replaces the orange proxy Infiltrators at the same points.
-- **Ironstrider Ballistarii:** one more ordered 2026-10-15, prepainted. This is a second Ironstrider next to the orange proxy, so the list gets Medium's two-Ironstrider core.
+- **Ironstrider Ballistarii:** two ordered 2026-10-15, prepainted. The orange resin proxy Ironstrider is being thrown away, so the list has two real Ironstriders. Weapon choice on each is unrecorded.
 - **Skitarii Vanguard and Rangers:** ordered 2026-10-15, prepainted. Quantity not recorded; they replace the orange resin proxy Vanguard and Rangers.
 - **Paint match:** it's unrecorded whether the prepainted models are red. Check against Cawl when they arrive.
 - **Other units:** not recorded yet. List them here.
