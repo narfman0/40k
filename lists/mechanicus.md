@@ -49,7 +49,7 @@
   - Sicarian Infiltrators
   - Serberys Raiders
 - **Skatros:** thrown away. The export still lists it, so the real list is 45 pts lighter than the export (1,935).
-- **Open question:** which of these are proper Games Workshop models and which are other kits standing in. Most tournaments require the real models.
+- **Material (2026-10-15):** all the orange models are resin proxies, so none are Games Workshop plastic. Many tournaments don't allow proxies or non-GW models, so check an event's rules before bringing them. Casual games are usually fine.
 
 ## Plans and ideas
 
