@@ -16,7 +16,7 @@ Names were cleaned up from a voice message. The ones marked (?) are my best gues
 - **Zandri Dust** (base): sandy bone.
 - **Wraithbone** (?) (base or spray primer): pale bone. Transcribed as "racebone".
 - **Corax White** (base): white.
-- **Corvus Black** (?) (base): black. Transcribed as "corvis black".
+- **Corvus Black** (base): black. Confirmed 2026-10-15.
 - **Baharroth Blue** (layer): pale sky blue.
 - **Nuln Oil** (shade): black wash.
 
@@ -33,6 +33,8 @@ The rest of the sets aren't recorded yet. Note the set names or the colours you 
 ## Vallejo
 
 A small pack of basic colours. Mainly useful for mixing and for colours the Citadel pots don't cover.
+
+- **Black:** a plain black. Fine for cloth, cables and any other black parts where the paint isn't the main focus.
 
 ## On order (2026-10-15)
 
