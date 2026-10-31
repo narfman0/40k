@@ -90,7 +90,7 @@ With the orders above, Medium is effectively the plan:
 - **Swap:** the new Infiltrators replace the proxy Infiltrators at the same cost, so no change.
 - **Cut:** Ruststalkers (-75) and Raiders (-60), both unpainted or orange proxies.
 - **Total:** 2,005 with two lascannon Ironstriders (5 over), 1,995 with one lascannon and one autocannon. If over, drop Vingh's Wafers (-25) to reach 1,980. Add Cohort Cybernetica as the third detachment for Transcendent Cogitation on the Ironstriders.
-- **Not yet decided:** whether to cut Ruststalkers and Raiders for sure; I haven't changed the exported list.
+- **Cuts agreed in discussion (2026-10-15):** Skatros (already gone), Ruststalkers, Raiders. With two lascannon Ironstriders the total is 2,005; drop Vingh's Wafers (-25) and take Necromechanic (+20) to land on exactly 2,000. The exported list hasn't been re-exported yet.
 
 #### Option: Thulia first (discussed 2026-10-15, not chosen)
 
@@ -166,7 +166,7 @@ Goal: every model in the list primed, with at least three colours and a finished
   - **Still to do:** Pteraxii and Serberys.
   - **Decision:** Mephiston Red looks good unwashed, so skip the wash on red for this batch. Wash only the metal, gold and bone if needed.
 - **Serberys:** the Sulphurhounds are built and painted (from the Combat Patrol). The Raiders are proxies and less painted.
-- **Hastarii:** shipped, due to arrive 2026-10-15. Bought preassembled and prepainted. Check the build (Fusiliers or Exterminators) and that the paint scheme matches the army.
+- **Hastarii:** arrived. Build (Fusiliers or Exterminators) and paint match against Cawl not yet recorded. (Earlier: shipped, due 2026-10-15.) Bought preassembled and prepainted. Check the build (Fusiliers or Exterminators) and that the paint scheme matches the army.
 - **Sicarian Infiltrators:** new set ordered 2026-10-15, prepainted. Replaces the orange proxy Infiltrators at the same points.
 - **Ironstrider Ballistarii:** two ordered 2026-10-15, prepainted. The orange resin proxy Ironstrider is being thrown away, so the list has two real Ironstriders. Weapon choice on each is unrecorded.
 - **Skorpius Dunerider:** planning to buy the real kit (about $87 US MSRP, $74 at Chaos Legion) to replace the resin proxy. Not ordered yet.
