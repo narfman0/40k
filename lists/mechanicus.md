@@ -21,7 +21,7 @@
 - Tech-Priest Manipulus + 3 Kataphron Breachers
 - Cybernetica Datasmith (Vingh's Wafers) + 2 Kastelan Robots
 - Belisarius Cawl
-- Sydonian Skatros
+- Sydonian Skatros (**discarded**: it was a proxy and is no longer owned)
 - 10 Skitarii Rangers
 - Ironstrider Ballistarii (autocannon)
 - Onager Dunecrawler (neutron laser)
@@ -41,6 +41,15 @@
   - Pteraxii as Sterylizors.
   - Serberys as whichever of Raiders or Sulphurhounds I don't already own; Sulphurhounds by default, with the blast carbine.
 - **Open question:** is the new Manipulus a second one, or does it replace a proxy?
+- **Proxies (2026-10-15):** these are stand-ins, somewhat painted and serviceable, but orange. Known so far, and the user said "at least", so the list may be longer:
+  - Ironstrider Ballistarii
+  - Skorpius Dunerider
+  - Skitarii Vanguard and Skitarii Rangers (how many units is unrecorded)
+  - Sicarian Ruststalkers
+  - Sicarian Infiltrators
+  - Serberys Raiders
+- **Skatros:** thrown away. The export still lists it, so the real list is 45 pts lighter than the export (1,935).
+- **Open question:** which of these are proper Games Workshop models and which are other kits standing in. Most tournaments require the real models.
 
 ## Plans and ideas
 
@@ -72,6 +81,16 @@ These were proposed in October 2026. All of them add Cohort Cybernetica. Prices 
 
 None chosen yet. Medium is the best value.
 
+#### Option: Thulia first (discussed 2026-10-15, not chosen)
+
+Counts the Skatros as already gone and the Hastarii as bought.
+
+- **Add:** Hastarii Fusiliers (+105) and Thulia (+180) to the real list of 1,935.
+- **Cut the orange proxies:** Ruststalkers (-75), Infiltrators (-75), Raiders (-60). That's 13 orange models you don't repaint.
+- **Drop Vingh's Wafers** (-25) to get under the limit.
+- **Total:** 1,985 pts, 15 spare. Thulia becomes Warlord.
+- **Alternative:** cut one Onager (-150) instead, and keep the fast units.
+
 ### Other candidates
 
 - An Enginseer.
@@ -89,7 +108,7 @@ None chosen yet. Medium is the best value.
 
 - **Scheme:** Mars red.
 - **Done:** about half the army is painted well in red. Cawl and one Onager are the reference models to match.
-- **Orange models:** some are painted orange and need repainting red. Paint over them; don't strip.
+- **Orange models:** the proxies listed under Collection notes are painted orange and need repainting red if they stay in the list. Paint over them; don't strip. Cutting orange units from the list is a way to avoid repainting them.
 - **Unpainted:** everything else.
 - **Paints owned:** see [Paints](../paints.md).
 
