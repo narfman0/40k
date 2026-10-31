@@ -60,8 +60,8 @@ These were proposed in October 2026. All of them add Cohort Cybernetica. Prices 
 - **Medium (~$128):**
   - Everything in Low.
   - Add a second Ironstrider with lascannons.
-  - Cut the Sulphurhounds and drop Necromechanic.
-  - Total: 2,000 pts.
+  - Cut the Raiders (60) and drop Necromechanic. (Changed 2026-10-15: the Sulphurhounds are built and painted, and the Raiders are unpainted proxies, so the Raiders go instead of the Hounds.)
+  - Total: 1,995 pts.
 - **High (~$270):**
   - Everything in Medium.
   - Add Thulia Ghuld (she becomes Warlord) and a Servitor Battleclade (from the Kill Team: Battleclade box).
@@ -134,6 +134,7 @@ Goal: every model in the list primed, with at least three colours and a finished
   - **Done:** Vanguard, Manipulus, Dominus.
   - **Still to do:** Pteraxii and Serberys.
   - **Decision:** Mephiston Red looks good unwashed, so skip the wash on red for this batch. Wash only the metal, gold and bone if needed.
+- **Serberys:** the Sulphurhounds are built and painted (from the Combat Patrol). The Raiders are proxies and less painted.
 - **Hastarii:** ordered 2026-10-15, bought preassembled and already painted. Check the build (Fusiliers or Exterminators) and that the paint scheme matches the army.
 - **Other units:** not recorded yet. List them here.
 
