@@ -81,6 +81,17 @@ These were proposed in October 2026. All of them add Cohort Cybernetica. Prices 
 
 None chosen yet. Medium is the best value.
 
+#### Where the list lands now (2026-10-15)
+
+With the orders above, Medium is effectively the plan:
+
+- **Start:** 1,935 (the Skatros is gone).
+- **Add:** Hastarii Fusiliers (+105) and the new Ironstrider with lascannons (+90).
+- **Swap:** the new Infiltrators replace the proxy Infiltrators at the same cost, so no change.
+- **Cut:** Ruststalkers (-75) and Raiders (-60), both unpainted or orange proxies.
+- **Total:** 1,995 pts, 5 spare. Add Cohort Cybernetica as the third detachment for Transcendent Cogitation on the Ironstriders.
+- **Not yet decided:** whether to cut Ruststalkers and Raiders for sure; I haven't changed the exported list.
+
 #### Option: Thulia first (discussed 2026-10-15, not chosen)
 
 Counts the Skatros as already gone and the Hastarii as bought.
@@ -155,7 +166,10 @@ Goal: every model in the list primed, with at least three colours and a finished
   - **Still to do:** Pteraxii and Serberys.
   - **Decision:** Mephiston Red looks good unwashed, so skip the wash on red for this batch. Wash only the metal, gold and bone if needed.
 - **Serberys:** the Sulphurhounds are built and painted (from the Combat Patrol). The Raiders are proxies and less painted.
-- **Hastarii:** ordered 2026-10-15, bought preassembled and already painted. Check the build (Fusiliers or Exterminators) and that the paint scheme matches the army.
+- **Hastarii:** shipped, due to arrive 2026-10-15. Bought preassembled and prepainted. Check the build (Fusiliers or Exterminators) and that the paint scheme matches the army.
+- **Sicarian Infiltrators:** new set ordered 2026-10-15, prepainted. Replaces the orange proxy Infiltrators at the same points.
+- **Ironstrider Ballistarii:** one more ordered 2026-10-15, prepainted. This is a second Ironstrider next to the orange proxy, so the list gets Medium's two-Ironstrider core.
+- **Paint match:** it's unrecorded whether the prepainted models are red. Check against Cawl when they arrive.
 - **Other units:** not recorded yet. List them here.
 
 **Reference look (Cawl):** matte, lighter and dusty red, not deep and saturated. To match it:
