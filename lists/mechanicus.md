@@ -169,6 +169,7 @@ Goal: every model in the list primed, with at least three colours and a finished
 - **Hastarii:** shipped, due to arrive 2026-10-15. Bought preassembled and prepainted. Check the build (Fusiliers or Exterminators) and that the paint scheme matches the army.
 - **Sicarian Infiltrators:** new set ordered 2026-10-15, prepainted. Replaces the orange proxy Infiltrators at the same points.
 - **Ironstrider Ballistarii:** two ordered 2026-10-15, prepainted. The orange resin proxy Ironstrider is being thrown away, so the list has two real Ironstriders. Weapon choice on each is unrecorded.
+- **Skorpius Dunerider:** planning to buy the real kit (about $87 US MSRP, $74 at Chaos Legion) to replace the resin proxy. Not ordered yet.
 - **Skitarii Vanguard and Rangers:** ordered 2026-10-15, prepainted. Quantity not recorded; they replace the orange resin proxy Vanguard and Rangers.
 - **Paint match:** it's unrecorded whether the prepainted models are red. Check against Cawl when they arrive.
 - **Other units:** not recorded yet. List them here.
